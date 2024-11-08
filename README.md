@@ -5,7 +5,7 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
+![ERD](https://github.com/Sahilmachhar/Coffeebar_Expanssion_SQL_Project/blob/main/Er%20diagram.png)
 
 ## Key Questions
 1. **Coffee Consumers Count**  
