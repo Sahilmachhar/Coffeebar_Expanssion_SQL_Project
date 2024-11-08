@@ -57,4 +57,17 @@ After analyzing the data, the recommended top three cities for new store opening
 2. Average rent per customer is very low at 156.  
 3. Average sales per customer is better at 11.6k.
 
+## Topics I learned in this project
+
+1. Database Creation and Table Design (Database concepts, constraints)
+2. Data Retrieval and Filtering (Basics SQL)
+3. Aggregations and Grouping
+4. Joining Tables (Left Join, Inner Join)
+5. Window Functions(Row Number, Rank, Dense Rank, Lead, Lag)
+6. Date and Time Functions
+7. Conditional Logic
+8. Subqueries
+9. Ranking and Ordering
+10. Data Segmentation (CASE STATEMENT)
+
 ---
